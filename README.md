@@ -1,12 +1,46 @@
-# CDCgov GitHub Organization Open Source Project Template
+# CDC/ATSDR Statistical Advisory Group (SAG)
 
-**Template for clearance: This project serves as a template to aid projects in starting up and moving through clearance procedures. To start, create a new repository and implement the required [open practices](open_practices.md), train on and agree to adhere to the organization's [rules of behavior](rules_of_behavior.md), and [send a request through the create repo form](https://forms.office.com/Pages/ResponsePage.aspx?id=aQjnnNtg_USr6NJ2cHf8j44WSiOI6uNOvdWse4I-C2NUNk43NzMwODJTRzA4NFpCUk1RRU83RTFNVi4u) using language from this template as a Guide.**
+The SAG is one of several scientific workgroups formed to benefit scientific excellence and accomplish the agency’s public health mission.
+
+## SAG activities
+
+*	Provide technical assistance to CDC/ATSDR leadership, journals, and staff in statistical and data science.
+*	Recognize achievements through annual events such as Statistics Day, Statistical Science Awards, and Professional Development and Career Awards.
+*	Provide training and professional development opportunities through periodic training courses, quarterly seminar series, and cross-working sponsored short course series.
+
+## Contacts
+
+LaTonia Richardson (SAG Chair: LCRichardson@cdc.gov)
+
+Nigel Scott (SAG Chair-Elect: NScott@cdc.gov)
+
+Kathryn Wingle (SAG Secretary: kwinglee@cdc.gov)
+
+## SAG's major activities
+
+**SAG Professional Development**: Provides professional development opportunities including mentorship on scientific work or career development.
+
+**SAG Training and Seminars**: By planning, co-sponsoring, presenting, and publicizing statistical lectures, short courses, monthly seminars and other activities, SAG supports the professional development of individuals and the statistical community within CDC, and enhances the use and application of quantitative methods. This is done in collaboration with CDC University and other partners.
+
+**CDC/ATSDR Statistics Day**: An annual daylong event that gives CDC quantitative researchers an opportunity to experience the breadth of CDC’s analytic work, showcase projects, share ideas, interact with fellow data analysts, statisticians, and other data scientists at CDC.
+
+## CDC Statistics-Related Resources 
+[COVID-19 data tracker](https://covid.cdc.gov/covid-data-tracker/#datatracker-home) provides maps and charts tracking cases, deaths, and trends of COVID-19 in the United States, updated daily
+
+[FastStats](https://www.cdc.gov/nchs/fastats/default.htm) provides selected statistics on a variety of health topics.
+
+[Data & Statistics](https://www.cdc.gov/datastatistics/) provides Data and Stats by topic and other CDC tools.
+
+## Instructions for subscribing to the SAG Listserv:
+From your email account, open a new message and enter the following information in each field:
+1.	To: listserv@listserv.cdc.gov
+2.	Subject: <leave subject line blank>
+3.	Body of email: Subscribe CDC-SAG <your first name> <your last name>
+The response email acknowledging your request to subscribe should come back to your email. inbox within a few minutes.
+
+
 
 **General disclaimer** This repository was created for use by CDC programs to collaborate on public health related projects in support of the [CDC mission](https://www.cdc.gov/about/organization/mission.htm).  GitHub is not hosted by the CDC, but is a third party website used by CDC and its partners to share information and collaborate on software. CDC use of GitHub does not imply an endorsement of any one particular service, product, or enterprise. 
-
-## Access Request, Repo Creation Request
-
-* [CDC GitHub Open Project Request Form](https://forms.office.com/Pages/ResponsePage.aspx?id=aQjnnNtg_USr6NJ2cHf8j44WSiOI6uNOvdWse4I-C2NUNk43NzMwODJTRzA4NFpCUk1RRU83RTFNVi4u) _[Requires a CDC Office365 login, if you do not have a CDC Office365 please ask a friend who does to submit the request on your behalf. If you're looking for access to the CDCEnt private organization, please use the [GitHub Enterprise Cloud Access Request form](https://forms.office.com/Pages/ResponsePage.aspx?id=aQjnnNtg_USr6NJ2cHf8j44WSiOI6uNOvdWse4I-C2NUQjVJVDlKS1c0SlhQSUxLNVBaOEZCNUczVS4u).]_
 
 ## Related documents
 
@@ -16,10 +50,6 @@
 * [Disclaimer](DISCLAIMER.md)
 * [Contribution Notice](CONTRIBUTING.md)
 * [Code of Conduct](code-of-conduct.md)
-
-## Overview
-
-Describe the purpose of your project. Add additional sections as necessary to help collaborators and potential collaborators understand and use your project.
   
 ## Public Domain Standard Notice
 This repository constitutes a work of the United States Government and is not
