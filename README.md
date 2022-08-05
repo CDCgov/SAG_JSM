@@ -8,13 +8,9 @@ The SAG is one of several scientific workgroups formed to benefit scientific exc
 *	Recognize achievements through annual events such as Statistics Day, Statistical Science Awards, and Professional Development and Career Awards.
 *	Provide training and professional development opportunities through periodic training courses, quarterly seminar series, and cross-working sponsored short course series.
 
-## Contacts
+## Contact
 
-LaTonia Richardson (SAG Chair: LCRichardson@cdc.gov)
-
-Nigel Scott (SAG Chair-Elect: NScott@cdc.gov)
-
-Kathryn Wingle (SAG Secretary: kwinglee@cdc.gov)
+SAG-Leadership@cdc.gov
 
 ## SAG's major activities
 
@@ -34,9 +30,10 @@ Kathryn Wingle (SAG Secretary: kwinglee@cdc.gov)
 ## Instructions for subscribing to the SAG Listserv:
 From your email account, open a new message and enter the following information in each field:
 1.	To: listserv@listserv.cdc.gov
-2.	Subject: <leave subject line blank>
-3.	Body of email: Subscribe CDC-SAG <your first name> <your last name>
-The response email acknowledging your request to subscribe should come back to your email. inbox within a few minutes.
+2.	Subject: \<leave subject line blank\>
+3.	Body of email: Subscribe CDC-SAGC \<your first name\> \<your last name\>
+
+The response email acknowledging your request to subscribe should come back to your email inbox within a few minutes.
 
 
 
